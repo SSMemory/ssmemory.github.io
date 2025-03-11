@@ -3,6 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+春天的花香绽放，初夏的热情将至，属于我们的石室中学故事永不褪⾊。
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+当教学楼前的银杏再次翻涌成⾦⾊的海，你是否会想起晚⾃习时窗边掠过的流霞？
+
+当⻝堂的糖醋⾥脊⾹⽓飘散，你是否会怀念漫步在校园各处的独特⼼情？
+
+那些在跑道上追逐过的星光，在考场上攥紧的笔尖，在寝室熄灯后压着笑意的夜谈——它们都在等待被镌刻进⼀本真正属于我们的《情系⺟校》。
