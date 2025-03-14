@@ -51,7 +51,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
@@ -62,34 +62,28 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/SSMemory/ssmemory.github.io"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
-
-footer:
-  links:
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/"
+      url: "https://ssmemory.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/SSMemory/ssmemory.github.io"
     - label: "QQ"
       icon: "fab fa-fw fa-qq"
-      url: "https://wpa.qq.com/msgrd?v=3&uin=192446454&site=qq&menu=yes"
+      url: "#"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:zhonj_ur8iocblde@aka.yeah.net"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+
+footer:
+  links:
+    - label: "投稿请联系："
+      icon: ""
+      url: "https://ssmemory.github.io/#footer"
+    - label: "QQ"
+      icon: "fab fa-fw fa-qq"
+      url: "#"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:zhonj_ur8iocblde@aka.yeah.net"
 
 defaults:
   # _posts
