@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "SSMemory"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "爱国利民 因时因事"
+  bio    : "爱国利民 因时应事"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
