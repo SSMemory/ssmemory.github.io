@@ -4,7 +4,8 @@ categories:
   - 2024 届
 tags:
   - 投稿
-  - 文庙校区 
+  - 文庙校区
+mathjax: true
 ---
 
 # 1-比赛
