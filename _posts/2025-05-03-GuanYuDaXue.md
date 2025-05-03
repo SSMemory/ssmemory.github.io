@@ -28,4 +28,4 @@ tags:
 
 &emsp;&emsp;为了防止大家也想我这样，我准备开设一个新的系列，介绍各个特色的大学。
 
-![](https://ssmemory.github.io/assets/userimages/GuanYuDaXue_img0.png)
+![](https://ssmemory.github.io/assets/userimages/GuanYuDaXue_img0.jpg)
