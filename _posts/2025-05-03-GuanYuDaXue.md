@@ -1,5 +1,5 @@
 ---
-title: "我的高三曾这样度过"
+title: "【公告】关于大学的一些琐碎的牢骚"
 categories:
   - 管理员
 tags:
